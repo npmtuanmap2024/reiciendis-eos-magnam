@@ -1,18 +1,78 @@
 {
-  "name": "@utilcode/simple-template-advanced",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "name": "@npmtuanmap2024/reiciendis-eos-magnam",
+  "description": "Extension for sass modules and new modules.",
+  "version": "v1.0.0",
+  "main": "./index.scss",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
   },
-  "author": "",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+  "keywords": [
+    "@angular-package",
+    "class",
+    "color",
+    "color/scheme",
+    "comparison",
+    "css variables",
+    "css",
+    "dictionary",
+    "extension",
+    "function",
+    "media",
+    "object",
+    "preprocessor",
+    "property",
+    "query",
+    "sass",
+    "sass:color",
+    "sass:list",
+    "sass:map",
+    "sass:math",
+    "sass:meta",
+    "sass:selector",
+    "sass:string",
+    "scss",
+    "string",
+    "style",
+    "translator",
+    "translator/dictionary",
+    "values",
+    "var"
+  ],
+  "devDependencies": {
+    "stylelint": "^15.10.3",
+    "stylelint-config-prettier-scss": "^1.0.0",
+    "stylelint-config-standard-scss": "^11.0.0",
+    "stylelint-order": "^6.0.3"
+  },
+  "peerDependencies": {
+    "sass": "^1.66.1"
   },
   "dependencies": {
-    "axios": "^1.6.8"
-  }
+    "@npmtuanmap2024/assumenda-officia-consequatur-in": "^v1.0.0",
+    "@npmtuanmap2024/commodi-neque-veritatis": "^v1.0.0",
+    "@npmtuanmap2024/eveniet-consectetur-fuga-magni": "^v1.0.0",
+    "@npmtuanmap2024/expedita-ex-atque": "^v1.0.0",
+    "@npmtuanmap2024/facere-facilis-blanditiis": "^v1.0.0",
+    "@npmtuanmap2024/inventore-delectus-corporis": "^v1.0.0",
+    "@npmtuanmap2024/ipsam-tempora-nisi-omnis": "^v1.0.0",
+    "@npmtuanmap2024/maiores-eaque-est-tempora": "^v1.0.0",
+    "@npmtuanmap2024/molestias-sequi-enim": "^v1.0.0",
+    "@npmtuanmap2024/psychic-dollop": "^1.0.0",
+    "@npmtuanmap2024/quos-amet-ipsum": "^v1.0.0",
+    "@npmtuanmap2024/quos-id-labore": "^v1.0.0",
+    "@npmtuanmap2024/voluptate-placeat-ea": "^v1.0.0",
+    "@npmtuanmap2024/voluptatibus-officia-fugit": "^v1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npmtuanmap2024/reiciendis-eos-magnam.git"
+  },
+  "homepage": "https://github.com/npmtuanmap2024/reiciendis-eos-magnam/#readme",
+  "bugs": {
+    "url": "https://github.com/npmtuanmap2024/reiciendis-eos-magnam/issues"
+  },
+  "author": "tuan149",
+  "packageManager": "yarn@4.1.1"
 }
